@@ -1,2 +1,0 @@
-# CAMPHIS
-Camera Hack
